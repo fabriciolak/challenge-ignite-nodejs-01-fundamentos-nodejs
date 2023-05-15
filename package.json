@@ -1,0 +1,16 @@
+{
+  "name": "challenge-ignite-nodejs-01-fundamentos-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start:dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parse": "^5.3.10"
+  }
+}
